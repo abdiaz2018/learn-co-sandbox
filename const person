@@ -1,0 +1,11 @@
+const person = {
+  name: "Terrance Roberts" ,
+  occupation: {
+    title: "District Manager",
+      yearsHeld: 2
+    },
+    pets: [{
+      kind: "cat",
+      name: "Ralph"
+      }]
+  }
